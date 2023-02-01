@@ -1,8 +1,8 @@
 Wow my old one of these made me look bad
 
 Im currently working on a game engine (for some reason I posted the first document to my old 
-account).I have been programming for around six years, and I've only really been releasing stuff for 
-the last two I'd say. The first game engine that I worked with was unity (I had been using scratch 
+account). I have been programming for around six years, and I've only really been releasing stuff for 
+the last three I'd say. The first game engine that I worked with was unity (I had been using scratch 
 and python before this), which wasnt the best experience at the start due to my lack of an internet 
 connection at the time. A year or so after my first failed attempt at a fnaf fan game and motivation 
 to use unity as a whole, I came back, this time I actually had a stable internet connection and in 
